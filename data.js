@@ -891,7 +891,7 @@ const team = [
     //Udhbhav
     {
         teamname: "Udhbhav",
-        name: "Name",
+        name: "Nima",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
