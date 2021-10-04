@@ -909,7 +909,7 @@ const team = [
     },
     {
         teamname: "Udhbhav",
-        name: "Name",
+        name: "sreeram",
         college: "Your College",
         batch: 2016,
         quote: "Your quote",
